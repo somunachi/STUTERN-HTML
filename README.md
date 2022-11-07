@@ -1,1 +1,1 @@
-# this repo is for my stutern tasks and projects
+# this repo is for my html stutern tasks and projects
